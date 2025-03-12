@@ -31,7 +31,7 @@
 
     <!-- footer -->
      <div class="footer animate__animated animate__bounceInUp animate__delay -5s">
-        <i>Learn From Mistakes</i>
+        <i>Learn From Mistakes 🍃</i>
      </div>
    </div>
 </body>
