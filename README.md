@@ -6,7 +6,7 @@ Ini adalah web sederhana yang saya buat untuk menampilkan daftar tautan/link pen
 📁 Hosting gratis di GitHub Pages.
 
 🔗 Live Preview
-Kunjungi: [ibnuhaoren.github.io/mylink](https://ibnuhaoren.github.io/mylink)
+Kunjungi: [ibnuhaoren.github.io/mylink](https://iHaoren.github.io/mylink)
 
  📌 Fitur
 - Desain simpel & ringan
